@@ -9,11 +9,11 @@ public class Main {
     public static void main(String[] args) {
 //        writeEvents();
 //        readEvents();
-//        System.out.println("hello");
-        System.out.println(new Connector(
-                Constant.DEFAULT_SCOPE,
-                Constant.DEFAULT_STREAM_NAME,
-                Constant.DEFAULT_CONTROLLER_URI).getEventStreamReader() == null);
+        System.out.println("hello");
+//        System.out.println(new Connector(
+//                Constant.DEFAULT_SCOPE,
+//                Constant.DEFAULT_STREAM_NAME,
+//                Constant.DEFAULT_CONTROLLER_URI).getEventStreamReader() == null);
     }
 
     public static void writeEvents(){

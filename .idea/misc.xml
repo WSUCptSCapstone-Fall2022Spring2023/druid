@@ -89,8 +89,6 @@
         <option value="$PROJECT_DIR$/extensions-core/hdfs-storage/pom.xml" />
         <option value="$PROJECT_DIR$/extensions-core/histogram/pom.xml" />
         <option value="$PROJECT_DIR$/extensions-core/kafka-extraction-namespace/pom.xml" />
-        <option value="$PROJECT_DIR$/extensions-core/kafka-indexing-service/pom.xml" />
-        <option value="$PROJECT_DIR$/extensions-core/kinesis-indexing-service/pom.xml" />
         <option value="$PROJECT_DIR$/extensions-core/kubernetes-extensions/pom.xml" />
         <option value="$PROJECT_DIR$/extensions-core/lookups-cached-global/pom.xml" />
         <option value="$PROJECT_DIR$/extensions-core/lookups-cached-single/pom.xml" />
